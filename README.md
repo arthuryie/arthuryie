@@ -11,7 +11,7 @@
 ├── next projects
 │   ├── tool.txt - Network packet capture and analysis
 │   ├── web_app.txt - Simple website for Capture the Flag games
-├── contacts
+├── social
 │   ├── github.txt - github.com/arthuryie
 │   ├── twitter.txt - https://x.com/zuzuyeee
 │   ├── youtube.txt - https://www.youtube.com/@zuzuyee
