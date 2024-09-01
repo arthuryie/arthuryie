@@ -6,7 +6,7 @@
 │   ├── username.txt - zuzuye9
 │   ├── os.txt - Ubuntu Linux / Windows (Dual Boot).
 │   ├── languages.txt - "Python, HTML and CSS."
-│   ├── learning.txt - Python, Cyber Security, English and Russian.
+│   ├── learning.txt - C, Cyber Security, English and Russian.
 │   ├── hobbies.txt - Programming, Games, Books, and study Human Behavior.
 ├── next projects
 │   ├── tool.txt - Network packet capture and analysis
