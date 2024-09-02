@@ -5,7 +5,7 @@
 ├── about
 │   ├── username.txt - zuzuye9
 │   ├── os.txt - Ubuntu Linux / Windows (Dual Boot).
-│   ├── languages.txt - "Python, HTML and CSS."
+│   ├── languages.txt - Python, HTML and CSS.
 │   ├── learning.txt - C, Cyber Security, English and Russian.
 │   ├── hobbies.txt - Programming, Games, Books, and study Human Behavior.
 ├── next projects
@@ -13,6 +13,6 @@
 │   ├── web_app.txt - Simple website for Capture the Flag games
 ├── social
 │   ├── github.txt - github.com/arthuryie
-│   ├── twitter.txt - https://x.com/zuzuyeee
-│   ├── youtube.txt - https://www.youtube.com/@zuzuyee
-│   ├── steam.txt - https://steamcommunity.com/id/zuzuye/
+│   ├── twitter.txt - x.com/zuzuyeee
+│   ├── youtube.txt - youtube.com/@zuzuyee
+│   ├── steam.txt - steamcommunity.com/id/zuzuye
